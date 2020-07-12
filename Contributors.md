@@ -46,6 +46,7 @@ Bala Hantsi
 - [SEYI-JS] (https://github.com/seyi-js)
 - [Swapnil Sengupta] (https://github.com/Swapnil-2001)
 - [Ylem](https://github.com/ylem)
+- [Zine eddine](https://github.com/Zineeddine998)
 - [AnycoK](https://github.com/AnycoK)
 - Vaja L.
 - [Aditya Mahajan](https://github.com/adityam31)
